@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.705
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaRazor", "LojaRazor\LojaRazor.csproj", "{EB974950-5E72-48D7-8B42-67E75A90B668}"
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaRazor", "LojaRazor\LojaRazor.csproj", "{66F6C3A8-AAA0-494A-8B4E-154259A0B00B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB974950-5E72-48D7-8B42-67E75A90B668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB974950-5E72-48D7-8B42-67E75A90B668}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB974950-5E72-48D7-8B42-67E75A90B668}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB974950-5E72-48D7-8B42-67E75A90B668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F6C3A8-AAA0-494A-8B4E-154259A0B00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F6C3A8-AAA0-494A-8B4E-154259A0B00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F6C3A8-AAA0-494A-8B4E-154259A0B00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F6C3A8-AAA0-494A-8B4E-154259A0B00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A65991C3-0FBE-42CC-BD0D-9F605BA6CC73}
 	EndGlobalSection
 EndGlobal
